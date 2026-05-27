@@ -1,0 +1,16 @@
+{
+  "name": "Noctky Universe",
+  "short_name": "Noctky",
+  "description": "Cinematic dimensional portfolio experience",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020408",
+  "theme_color": "#020408",
+  "icons": [
+    {
+      "src": "/images/noctky-logo.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
